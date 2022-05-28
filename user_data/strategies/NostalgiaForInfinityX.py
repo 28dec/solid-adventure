@@ -1,0 +1,1 @@
+/freqtrade/NostalgiaForInfinity/NostalgiaForInfinityX.py

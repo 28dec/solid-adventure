@@ -1,0 +1,12 @@
+{
+    "telegram": {
+        "enabled": ,
+        "token": "",
+        "chat_id": "",
+        "keyboard": [
+            ["/daily", "/balance", "/profit"],
+            ["/status table", "/performance"],
+            ["/version", "/count", "/logs"]
+        ]
+    }
+}
